@@ -5,3 +5,4 @@ Created a webapp to analyse the motor vehicles collisions using streamlit and py
 Created a webapp using python code and strem lit with interactive visualisations and real time change possible features.Pandas were used extensively for data manipulation with nupys and pydeck.
 
 ## Link to webapp
+http://192.168.29.62:8501/
